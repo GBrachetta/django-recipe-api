@@ -1,0 +1,5 @@
+*.pyc
+.venv
+Pipfile
+Pipfile.lock
+app/db.sqlite3
