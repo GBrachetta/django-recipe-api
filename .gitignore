@@ -3,3 +3,4 @@
 Pipfile
 Pipfile.lock
 app/db.sqlite3
+.vscode/settings.json
